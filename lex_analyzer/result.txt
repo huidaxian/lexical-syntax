@@ -1,0 +1,90 @@
+<KeyWord[8],int>
+<KeyWord[0],main>
+<open parenthesis>
+<close parenthesis>
+<id,inputf>
+<assign>
+<id,fopen>
+<open parenthesis>
+<Double-quotation-marks>
+<id,test>
+<dot>
+<id,txt>
+<Double-quotation-marks>
+<comma>
+<Double-quotation-marks>
+<id,r>
+<Double-quotation-marks>
+<close parenthesis>
+<semicolon>
+<id,c>
+<assign>
+<id,getc>
+<open parenthesis>
+<id,inputf>
+<close parenthesis>
+<semicolon>
+<KeyWord[9],double>
+<id,d>
+<assign>
+<decimal,3.56>
+<KeyWord[4],while>
+<open parenthesis>
+<integer,1>
+<close parenthesis>
+<open brace>
+<id,rmInvisible>
+<open parenthesis>
+<close parenthesis>
+<semicolon>
+<KeyWord[1],if>
+<open parenthesis>
+<id,c>
+<equal>
+<id,EOF>
+<close parenthesis>
+<id,break>
+<semicolon>
+<KeyWord[1],if>
+<open parenthesis>
+<id,isNum>
+<open parenthesis>
+<close parenthesis>
+<not equal>
+<minus>
+<integer,1>
+<close parenthesis>
+<id,continue>
+<semicolon>
+<KeyWord[1],if>
+<open parenthesis>
+<id,isOprt>
+<open parenthesis>
+<close parenthesis>
+<not equal>
+<minus>
+<integer,1>
+<close parenthesis>
+<id,continue>
+<semicolon>
+<KeyWord[1],if>
+<open parenthesis>
+<id,isIDorKeyWord>
+<open parenthesis>
+<close parenthesis>
+<not equal>
+<minus>
+<integer,1>
+<close parenthesis>
+<id,continue>
+<semicolon>
+<id,cout>
+<less>
+<less>
+<Double-quotation-marks>
+<id,Unknown>
+<id,Character>
+<Double-quotation-marks>
+<id,return>
+<integer,0>
+<semicolon>

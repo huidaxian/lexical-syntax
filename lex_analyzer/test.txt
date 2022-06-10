@@ -1,0 +1,15 @@
+int main()
+    inputf = fopen("test.txt", "r");
+    c = getc(inputf);
+    double d = 3.56
+    while(1){
+        
+        rmInvisible();
+        if(c==EOF)break;
+        if(isNum()!=-1)continue;
+        if(isOprt()!=-1)continue;
+        if(isIDorKeyWord()!=-1)continue;
+        cout<<"Unknown Character"
+    return 0;
+    
+
